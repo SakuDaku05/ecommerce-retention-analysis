@@ -1,0 +1,7 @@
+segment_type,segment,customers,return_90d_pct
+acquisition market,Rest of world,335,50.1
+acquisition market,United Kingdom,3035,45.0
+first purchase value quartile,Q1 (lowest first basket),867,35.8
+first purchase value quartile,Q2,839,41.5
+first purchase value quartile,Q3,839,49.6
+first purchase value quartile,Q4 (highest first basket),825,55.6

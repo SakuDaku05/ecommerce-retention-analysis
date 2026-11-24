@@ -1,0 +1,7 @@
+purchase_number,label,purchases,median_days_since_previous,p90_days_since_previous,pct_followed_within_90d
+1,1,4338,,,45.5
+2,2,2790,57.0,192.0,63.5
+3,3,1916,45.0,130.0,72.8
+4,4,1415,39.0,104.0,81.8
+5,5,1026,33.0,86.0,90.3
+6,6th+,5278,14.0,47.0,96.7
